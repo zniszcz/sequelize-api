@@ -1,7 +1,7 @@
 'use strict';
 module.exports = (sequelize, DataTypes) => {
   var LevelsAssoctiation = sequelize.define('LevelsAssoctiation', {
-    level: DataTypes.NUMBER
+    level: DataTypes.INTEGER
   });
 
   LevelsAssoctiation.associate = (models) => {

@@ -2,9 +2,9 @@
 module.exports = (sequelize, DataTypes) => {
   var Lesson = sequelize.define('Lesson', {
     id: {
-      type: Sequelize.INTEGER,
+      type: DataTypes.INTEGER,
       autoIncrement: true,
-      primaryKey: true,,
+      primaryKey: true,
       allowNul: false
     },
     title: DataTypes.STRING
