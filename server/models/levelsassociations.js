@@ -4,12 +4,12 @@ module.exports = (sequelize, DataTypes) => {
     level: DataTypes.INTEGER
   });
 
-  // LevelsAssociation.associate = (models) => {
-  //   LevelsAssociation.hasMany(models.Lesson, {
-  //     foreignKey: 'id',
-  //     as: 'lessonId'
-  //   });
-  // };
+  LevelsAssociation.associate = (models) => {
+    LevelsAssociation.hasMany(models.Lesson, {
+      foreignKey: 'id',
+      as: 'lessonId'
+    });
+  };
 
   return LevelsAssociation;
 };

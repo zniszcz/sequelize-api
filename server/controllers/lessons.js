@@ -13,6 +13,6 @@ module.exports = {
     return Lesson
       .all()
       .then(lessons => res.status(200).send(lessons))
-      .then(error => res.status(400).send(error));
+      .catch(error => res.status(400).send(error));
   }
 };
