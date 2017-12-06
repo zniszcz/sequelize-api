@@ -10,12 +10,12 @@ module.exports = (sequelize, DataTypes) => {
     title: DataTypes.STRING
   });
 
-  Lesson.associate = (models) => {
-    Lesson.belongsTo(models.LevelsAssoctiation, {
-      foreignKey: 'id',
-      onDelete: 'CASCADE'
-    });
-  };
+  // Lesson.associate = (models) => {
+  //   Lesson.belongsTo(models.LevelsAssociation, {
+  //     foreignKey: 'id',
+  //     onDelete: 'CASCADE'
+  //   });
+  // };
 
   return Lesson;
 };

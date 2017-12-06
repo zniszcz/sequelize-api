@@ -1,7 +1,7 @@
 'use strict';
 module.exports = {
   up: (queryInterface, Sequelize) => {
-    return queryInterface.createTable('LevelsAssoctiations', {
+    return queryInterface.createTable('LevelsAssociations', {
       level: {
         type: Sequelize.INTEGER
       },
@@ -16,11 +16,11 @@ module.exports = {
       lessonId: {
         type: Sequelize.INTEGER,
         onDelete: 'CASCADE',
-        references: {
-          model: 'Lessons',
-          key: 'id',
-          as: 'lessonId'
-        }
+        // references: {
+        //   model: 'Lessons',
+        //   key: 'id',
+        //   as: 'lessonId'
+        // }
       }
     });
   },
