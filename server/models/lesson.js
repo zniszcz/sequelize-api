@@ -2,12 +2,14 @@
 module.exports = (sequelize, DataTypes) => {
   var Lesson = sequelize.define('Lesson', {
     id: {
-      type: DataTypes.UUID,
+      type: DataTypes.INTEGER,
+      autoIncrement: true,
       primaryKey: true,
-      allowNul: false
+      allowNull: false
     },
     title: {
         type: DataTypes.STRING,
+        allowNull: false,
         required: true
     }
   });

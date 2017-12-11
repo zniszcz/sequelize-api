@@ -4,6 +4,7 @@ module.exports = (sequelize, DataTypes) => {
     level: {
         type: DataTypes.INTEGER,
         required: true,
+        allowNull: false,
     },
   }, {
     underscored: true,
