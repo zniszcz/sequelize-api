@@ -2,20 +2,15 @@
 module.exports = (sequelize, DataTypes) => {
   var Lesson = sequelize.define('Lesson', {
     id: {
-      type: DataTypes.INTEGER,
-      autoIncrement: true,
+      type: DataTypes.UUID,
       primaryKey: true,
       allowNul: false
     },
-    title: DataTypes.STRING
+    title: {
+        type: DataTypes.STRING,
+        required: true
+    }
   });
-
-  Lesson.associate = (models) => {
-    Lesson.belongsTo(models.LevelsAssociation, {
-      foreignKey: 'id',
-      onDelete: 'CASCADE'
-    });
-  };
 
   return Lesson;
 };

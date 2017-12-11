@@ -3,24 +3,18 @@ module.exports = {
   up: (queryInterface, Sequelize) => {
     return queryInterface.createTable('LevelsAssociations', {
       level: {
-        type: Sequelize.INTEGER
-      },
-      createdAt: {
+        type: Sequelize.INTEGER,
+        required: true,
         allowNull: false,
-        type: Sequelize.DATE,
-      },
-      updatedAt: {
-        allowNull: false,
-        type: Sequelize.DATE,
       },
       lessonId: {
-        type: Sequelize.INTEGER,
-        onDelete: 'CASCADE',
-        // references: {
-        //   model: 'Lessons',
-        //   key: 'id',
-        //   as: 'lessonId'
-        // }
+        type: Sequelize.UUID,
+        // onDelete: 'CASCADE',
+        references: {
+          model: 'Lessons',
+          key: 'id',
+          as: 'lesson_id'
+        }
       }
     });
   },
