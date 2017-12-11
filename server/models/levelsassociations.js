@@ -5,10 +5,6 @@ module.exports = (sequelize, DataTypes) => {
         type: DataTypes.INTEGER,
         required: true,
     },
-    // lesson_id: {
-    //     type: DataTypes.UUID,
-    //     required: true,
-    // }
   }, {
     underscored: true,
   });
