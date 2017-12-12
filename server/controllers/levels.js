@@ -1,13 +1,6 @@
 const Levels = require('../models').LevelsAssociation;
 module.exports = {
   create(req, res) {
-    // console.log('-------------- dupa -----------');
-    // console.log({
-    //   level: req.body.level,
-    //   lessonId: req.params.id,
-    // })
-    // console.log('-------------- dupa -----------');
-
     return Levels
       .create({
         level: req.body.level,
