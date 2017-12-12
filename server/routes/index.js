@@ -11,6 +11,19 @@ module.exports = (app) => {
 
   app.get('/api/lessons', lessonsController.list);
   app.post('/api/lessons', lessonsController.create);
+  app.delete('/api/lessons/:id', function(req, res) {
+    return Lesson.destroy({
+      where: {
+        id: req.params.id
+      }
+    })
+    .then((data) => {
+      res.status(201).send(data);
+    })
+    .catch((error) => {
+      res.status(400).send(error);
+    });
+  });
 
   app.post('/api/lessons/:id/level', levelsController.create);
 
