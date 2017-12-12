@@ -31,6 +31,12 @@ module.exports = {
         allowNull: false,
         type: Sequelize.DATE,
       }
+    }, {
+      uniqueKeys: {
+        actions_unique: {
+          fields: ['level', 'lessonId']
+        }
+      }
     });
   },
   down: (queryInterface, Sequelize) => {
