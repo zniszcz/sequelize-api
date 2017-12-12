@@ -1,4 +1,5 @@
 const Lesson = require('../models').Lesson;
+const Levels = require('../models').LevelsAssociation;
 
 module.exports = {
   create(req, res) {
@@ -11,8 +12,16 @@ module.exports = {
   },
   list(req, res) {
     return Lesson
-      .all()
-      .then(lessons => res.status(200).send(lessons))
-      .catch(error => res.status(400).send(error));
+      .findAll({
+        include: [{
+          model: Levels,
+        }]
+      })
+      .then((data) => {
+        res.status(201).send(data);
+      })
+      .catch(error => {
+        res.status(400).send(error);
+      });
   }
 };

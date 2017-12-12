@@ -16,8 +16,7 @@ module.exports = (sequelize, DataTypes) => {
 
   Lesson.associate = (models) => {
     Lesson.hasMany(models.LevelsAssociation, {
-      foreignKey: 'id',
-      as: 'lessonId'
+      foreignKey: 'lessonId',
     });
   };
 
