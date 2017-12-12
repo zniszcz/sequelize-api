@@ -6,6 +6,6 @@ module.exports = (app) => {
         message: "Welcome"
     }));
 
-    require('./lessons')(app);
-    require('./levels')(app);
+    app.use('/api/lessons', require('./lessons'));
+    app.use('/api/levels', require('./levels'));
 };
