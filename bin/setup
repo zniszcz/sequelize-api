@@ -13,7 +13,12 @@ con.connect(function (error) {
     con.query("DROP DATABASE IF EXISTS `" + config.development.database + "`;", function (error, result) {
         if (error) throw error;
         console.log("Database dropped!");
-        con.query("CREATE DATABASE " + config.development.database + ";", function (error, result) {
+        const query = `
+            CREATE DATABASE ${ '`' + config.development.database + '`'}
+                DEFAULT CHARACTER SET utf8
+                DEFAULT COLLATE utf8_general_ci;
+        `;
+        con.query(query, function (error, result) {
             if (error) throw error;
             console.log("Database created!");
             con.end(function() {
