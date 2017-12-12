@@ -15,7 +15,7 @@ $: npm install
 ```
 
 ### 3. Fill connection details:
-Copy `./server/config/config.sample.json`, remove `.sample` from filename and fill it with your connection details.
+Copy `./config/config.sample.json`, remove `.sample` from filename and fill it with your connection details.
 
 
 ### 4. Setup database:
