@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start:dev": "nodemon ./bin/www",
+    "setup": "node ./bin/setup",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
