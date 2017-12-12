@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "dupa",
+    "database": "testapi",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
