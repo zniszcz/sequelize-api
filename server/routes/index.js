@@ -24,6 +24,26 @@ module.exports = (app) => {
       res.status(400).send(error);
     });
   });
+  app.put('/api/lessons/:id/level', function(req, res) {
+    const levels = req.body.levels || [];
+
+    if (!levels.length) {
+      return Levels
+      .destroy({
+        where: {
+          lessonId: req.params.id
+        }
+      })
+      .then((data) => {
+        res.status(201).send(data);
+      })
+      .catch((error) => {
+        res.status(400).send(error);
+      });
+    } else {
+      // TODO:
+    }
+  });
 
   app.post('/api/lessons/:id/level', levelsController.create);
 
