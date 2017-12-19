@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": "dupa",
-    "database": "testapi",
+    "database": "testapi2",
     "host": "localhost",
     "dialect": "mysql"
   }
