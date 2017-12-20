@@ -67,8 +67,8 @@ router.post('/:id/level', function(req, res) {
         .create({
             level: req.body.level,
             lessonId: req.params.id,
-            x: 0,
-            y: 0,
+            x: req.body.x || 0,
+            y: req.body.y || 0,
         });
     const findLesson = Lesson
         .find({
