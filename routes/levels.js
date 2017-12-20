@@ -30,7 +30,19 @@ router.get('/:id', function(req, res) {
         .then((data) => {
             const lessons = [];
             data.forEach(level => {
-                lessons.push(level.Lesson);
+                console.log('-----', JSON.stringify(level));
+
+                // lessons.push(level);
+                lessons.push({
+                  id: level.lessonId,
+                  x: level.x,
+                  y: level.y,
+                  title: level.Lesson.title,
+                  from: level.Lesson.from,
+                  to: level.Lesson.to,
+                  createdAt: level.Lesson.createdAt,
+                  updatedAt: level.Lesson.updatedAt,
+                });
             });
             res.status(201).send({
                 level: req.params.id,

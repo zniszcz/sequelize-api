@@ -121,6 +121,9 @@ router.post('/:id/level', function(req, res) {
               if (update.to) {
                 model.to = update.to;
               }
+              // model.level = req.body.level;
+              // model.x = req.body.x;
+              // model.y = req.body.y;
               res.status(201).send(model);
           })
           .catch((error) => {
