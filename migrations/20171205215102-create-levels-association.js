@@ -30,6 +30,12 @@ module.exports = {
       updatedAt: {
         allowNull: false,
         type: Sequelize.DATE,
+      },
+      x: {
+        type: Sequelize.INTEGER
+      },
+      y: {
+        type: Sequelize.INTEGER
       }
     }, {
       uniqueKeys: {

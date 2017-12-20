@@ -11,7 +11,9 @@ module.exports = (sequelize, DataTypes) => {
         type: DataTypes.STRING,
         allowNull: false,
         required: true
-    }
+    },
+    from: DataTypes.INTEGER,
+    to: DataTypes.INTEGER
   });
 
   Lesson.associate = (models) => {

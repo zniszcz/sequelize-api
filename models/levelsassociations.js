@@ -15,7 +15,9 @@ module.exports = (sequelize, DataTypes) => {
     lessonId: {
       type: DataTypes.INTEGER,
       required: true,
-    }
+    },
+    x: DataTypes.INTEGER,
+    y: DataTypes.INTEGER
   });
 
   LevelsAssociation.associate = (models) => {
