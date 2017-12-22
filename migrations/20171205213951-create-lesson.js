@@ -27,6 +27,15 @@ module.exports = {
       },
       bgColor: {
         type: Sequelize.STRING
+      },
+      parent: {
+        type: Sequelize.INTEGER,
+        allowNull: true,
+        references: {
+          model: 'Lessons',
+          key: 'id',
+          as: 'lessonId'
+        }
       }
     });
   },

@@ -23,6 +23,7 @@ router.post('/', function(req, res) {
         .create({
             title: req.body.title,
             bgColor: req.body.bgColor || null,
+            parent: req.body.parent || null,
         })
         .then(lesson => res.status(201).send(lesson))
         .catch(error => res.status(400).send(error));

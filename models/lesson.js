@@ -21,6 +21,10 @@ module.exports = (sequelize, DataTypes) => {
     Lesson.hasMany(models.LevelsAssociation, {
       foreignKey: 'lessonId',
     });
+
+    Lesson.hasOne(models.Lesson, {
+      foreignKey: 'parent',
+    });
   };
 
   return Lesson;
