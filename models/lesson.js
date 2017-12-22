@@ -13,7 +13,8 @@ module.exports = (sequelize, DataTypes) => {
         required: true
     },
     from: DataTypes.INTEGER,
-    to: DataTypes.INTEGER
+    to: DataTypes.INTEGER,
+    bgColor: DataTypes.STRING
   });
 
   Lesson.associate = (models) => {

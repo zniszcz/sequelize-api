@@ -24,6 +24,9 @@ module.exports = {
       },
       to: {
         type: Sequelize.INTEGER
+      },
+      bgColor: {
+        type: Sequelize.STRING
       }
     });
   },

@@ -22,6 +22,7 @@ router.post('/', function(req, res) {
     return Lesson
         .create({
             title: req.body.title,
+            bgColor: req.body.bgColor || null,
         })
         .then(lesson => res.status(201).send(lesson))
         .catch(error => res.status(400).send(error));

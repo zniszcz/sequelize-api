@@ -40,6 +40,7 @@ router.get('/:id', function(req, res) {
                   title: level.Lesson.title,
                   from: level.Lesson.from,
                   to: level.Lesson.to,
+                  bgColor: level.Lesson.bgColor,
                   createdAt: level.Lesson.createdAt,
                   updatedAt: level.Lesson.updatedAt,
                 });
