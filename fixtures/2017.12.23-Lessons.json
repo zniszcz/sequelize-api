@@ -5,7 +5,7 @@
       "from": "1",
       "to": "3",
       "bgColor": "0x82B366",
-      "parent": null,
+      "parent": null
     },
     {
       "id": "2",
@@ -13,7 +13,7 @@
       "from": "2",
       "to": "4",
       "bgColor": "0x82B366",
-      "parent": 1,
+      "parent": 1
     },
     {
       "id": "3",
@@ -21,7 +21,7 @@
       "from": "2",
       "to": "4",
       "bgColor": "0x82B366",
-      "parent": 1,
+      "parent": 1
     },
     {
       "id": "4",
@@ -29,7 +29,7 @@
       "from": "2",
       "to": "4",
       "bgColor": "0x82B366",
-      "parent": 1,
+      "parent": 1
     },
     {
       "id": "5",
@@ -37,7 +37,7 @@
       "from": "2",
       "to": "4",
       "bgColor": "0x82B366",
-      "parent": 1,
+      "parent": 1
     },
     {
       "id": "6",
@@ -45,7 +45,7 @@
       "from": "2",
       "to": "4",
       "bgColor": "0x82B366",
-      "parent": 1,
+      "parent": 1
     },
     {
       "id": "7",
@@ -53,7 +53,7 @@
       "from": "2",
       "to": "4",
       "bgColor": "0x82B366",
-      "parent": 1,
+      "parent": 1
     },
     {
       "id": "8",
@@ -61,7 +61,7 @@
       "from": "2",
       "to": "4",
       "bgColor": "0x82B366",
-      "parent": 1,
+      "parent": 1
     },
     {
       "id": "9",
@@ -69,7 +69,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 2,
+      "parent": 2
     },
     {
       "id": "10",
@@ -77,7 +77,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 2,
+      "parent": 2
     },
     {
       "id": "11",
@@ -85,7 +85,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 2,
+      "parent": 2
     },
     {
       "id": "12",
@@ -93,7 +93,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 3,
+      "parent": 3
     },
     {
       "id": "13",
@@ -101,7 +101,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 3,
+      "parent": 3
     },
     {
       "id": "14",
@@ -109,7 +109,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 3,
+      "parent": 3
     },
     {
       "id": "15",
@@ -117,7 +117,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 3,
+      "parent": 3
     },
     {
       "id": "16",
@@ -125,7 +125,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 3,
+      "parent": 3
     },
     {
       "id": "17",
@@ -133,7 +133,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 3,
+      "parent": 3
     },
     {
       "id": "18",
@@ -141,7 +141,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 4,
+      "parent": 4
     },
     {
       "id": "19",
@@ -149,7 +149,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 4,
+      "parent": 4
     },
     {
       "id": "20",
@@ -157,7 +157,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 4,
+      "parent": 4
     },
     {
       "id": "21",
@@ -165,7 +165,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 4,
+      "parent": 4
     },
     {
       "id": "22",
@@ -173,7 +173,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 4,
+      "parent": 4
     },
     {
       "id": "23",
@@ -181,7 +181,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 5,
+      "parent": 5
     },
     {
       "id": "24",
@@ -189,7 +189,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 5,
+      "parent": 5
     },
     {
       "id": "25",
@@ -197,7 +197,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 5,
+      "parent": 5
     },
     {
       "id": "26",
@@ -205,7 +205,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 5,
+      "parent": 5
     },
     {
       "id": "27",
@@ -213,7 +213,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 5,
+      "parent": 5
     },
     {
       "id": "28",
@@ -221,7 +221,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 5,
+      "parent": 5
     },
     {
       "id": "29",
@@ -229,7 +229,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 5,
+      "parent": 5
     },
     {
       "id": "30",
@@ -237,7 +237,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 6,
+      "parent": 6
     },
     {
       "id": "31",
@@ -245,7 +245,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 6,
+      "parent": 6
     },
     {
       "id": "32",
@@ -253,7 +253,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 7,
+      "parent": 7
     },
     {
       "id": "33",
@@ -261,7 +261,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 7,
+      "parent": 7
     },
     {
       "id": "34",
@@ -269,7 +269,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 8,
+      "parent": 8
     },
     {
       "id": "35",
@@ -277,7 +277,7 @@
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
-      "parent": 8,
+      "parent": 8
     },
     {
       "id": "36",
@@ -285,7 +285,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 13,
+      "parent": 13
     },
     {
       "id": "37",
@@ -293,7 +293,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 13,
+      "parent": 13
     },
     {
       "id": "38",
@@ -301,7 +301,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 13,
+      "parent": 13
     },
     {
       "id": "39",
@@ -309,7 +309,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 13,
+      "parent": 13
     },
     {
       "id": "40",
@@ -317,7 +317,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 14,
+      "parent": 14
     },
     {
       "id": "41",
@@ -325,7 +325,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 14,
+      "parent": 14
     },
     {
       "id": "42",
@@ -333,7 +333,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 15,
+      "parent": 15
     },
     {
       "id": "43",
@@ -341,7 +341,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 15,
+      "parent": 15
     },
     {
       "id": "44",
@@ -349,7 +349,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 16,
+      "parent": 16
     },
     {
       "id": "45",
@@ -357,7 +357,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 16,
+      "parent": 16
     },
     {
       "id": "46",
@@ -365,7 +365,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 17,
+      "parent": 17
     },
     {
       "id": "47",
@@ -373,7 +373,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 17,
+      "parent": 17
     },
     {
       "id": "48",
@@ -381,7 +381,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 17,
+      "parent": 17
     },
     {
       "id": "49",
@@ -389,7 +389,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 18,
+      "parent": 18
     },
     {
       "id": "50",
@@ -397,7 +397,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 18,
+      "parent": 18
     },
     {
       "id": "51",
@@ -405,7 +405,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 18,
+      "parent": 18
     },
     {
       "id": "52",
@@ -413,7 +413,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 18,
+      "parent": 18
     },
     {
       "id": "53",
@@ -421,7 +421,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 18,
+      "parent": 18
     },
     {
       "id": "54",
@@ -429,7 +429,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 19,
+      "parent": 19
     },
     {
       "id": "54",
@@ -437,7 +437,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 19,
+      "parent": 19
     },
     {
       "id": "55",
@@ -445,7 +445,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 19,
+      "parent": 19
     },
     {
       "id": "56",
@@ -453,7 +453,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 19,
+      "parent": 19
     },
     {
       "id": "57",
@@ -461,7 +461,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 19,
+      "parent": 19
     },
     {
       "id": "58",
@@ -469,7 +469,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 20,
+      "parent": 20
     },
     {
       "id": "59",
@@ -477,7 +477,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 20,
+      "parent": 20
     },
     {
       "id": "60",
@@ -485,7 +485,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 20,
+      "parent": 20
     },
     {
       "id": "61",
@@ -493,7 +493,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 20,
+      "parent": 20
     },
     {
       "id": "62",
@@ -501,7 +501,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 20,
+      "parent": 20
     },
     {
       "id": "63",
@@ -509,7 +509,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 20,
+      "parent": 20
     },
     {
       "id": "64",
@@ -517,7 +517,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 21,
+      "parent": 21
     },
     {
       "id": "65",
@@ -525,7 +525,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 21,
+      "parent": 21
     },
     {
       "id": "66",
@@ -533,7 +533,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 21,
+      "parent": 21
     },
     {
       "id": "67",
@@ -541,7 +541,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 21,
+      "parent": 21
     },
     {
       "id": "68",
@@ -549,7 +549,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 23,
+      "parent": 23
     },
     {
       "id": "69",
@@ -557,7 +557,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 23,
+      "parent": 23
     },
     {
       "id": "70",
@@ -565,7 +565,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 23,
+      "parent": 23
     },
     {
       "id": "71",
@@ -573,7 +573,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 23,
+      "parent": 23
     },
     {
       "id": "72",
@@ -581,7 +581,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 23,
+      "parent": 23
     },
     {
       "id": "73",
@@ -589,7 +589,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 23,
+      "parent": 23
     },
     {
       "id": "74",
@@ -597,7 +597,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 23,
+      "parent": 23
     },
     {
       "id": "75",
@@ -605,7 +605,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 23,
+      "parent": 23
     },
     {
       "id": "76",
@@ -613,7 +613,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 24,
+      "parent": 24
     },
     {
       "id": "77",
@@ -621,7 +621,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 24,
+      "parent": 24
     },
     {
       "id": "78",
@@ -629,7 +629,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 24,
+      "parent": 24
     },
     {
       "id": "79",
@@ -637,7 +637,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 24,
+      "parent": 24
     },
     {
       "id": "80",
@@ -645,7 +645,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 24,
+      "parent": 24
     },
     {
       "id": "81",
@@ -653,7 +653,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 26,
+      "parent": 26
     },
     {
       "id": "82",
@@ -661,7 +661,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 26,
+      "parent": 26
     },
     {
       "id": "83",
@@ -669,7 +669,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 26,
+      "parent": 26
     },
     {
       "id": "84",
@@ -677,7 +677,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 26,
+      "parent": 26
     },
     {
       "id": "85",
@@ -685,7 +685,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 26,
+      "parent": 26
     },
     {
       "id": "86",
@@ -693,7 +693,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 26,
+      "parent": 26
     },
     {
       "id": "87",
@@ -701,7 +701,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 26,
+      "parent": 26
     },
     {
       "id": "88",
@@ -709,7 +709,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 28,
+      "parent": 28
     },
     {
       "id": "89",
@@ -717,7 +717,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 28,
+      "parent": 28
     },
     {
       "id": "90",
@@ -725,7 +725,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 28,
+      "parent": 28
     },
     {
       "id": "91",
@@ -733,7 +733,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 28,
+      "parent": 28
     },
     {
       "id": "92",
@@ -741,7 +741,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 28,
+      "parent": 28
     },
     {
       "id": "93",
@@ -749,7 +749,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 30,
+      "parent": 30
     },
     {
       "id": "94",
@@ -757,7 +757,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 30,
+      "parent": 30
     },
     {
       "id": "95",
@@ -765,7 +765,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 30,
+      "parent": 30
     },
     {
       "id": "96",
@@ -773,7 +773,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 31,
+      "parent": 31
     },
     {
       "id": "97",
@@ -781,7 +781,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 31,
+      "parent": 31
     },
     {
       "id": "98",
@@ -789,7 +789,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 31,
+      "parent": 31
     },
     {
       "id": "99",
@@ -797,7 +797,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 31,
+      "parent": 31
     },
     {
       "id": "100",
@@ -805,7 +805,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 32,
+      "parent": 32
     },
     {
       "id": "101",
@@ -813,7 +813,7 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 32,
+      "parent": 32
     },
     {
       "id": "102",
@@ -821,7 +821,79 @@
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
-      "parent": 32,
+      "parent": 32
+    },
+    {
+      "id": "103",
+      "title": "Diagramy słupkowe i obrazkowe",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 9
+    },
+    {
+      "id": "104",
+      "title": "Przedstawienie za pomocą diagramu",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 9
+    },
+    {
+      "id": "105",
+      "title": "Odczytywanie danych z diagramu",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 9
+    },
+    {
+      "id": "106",
+      "title": "Interpretacja danych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 9
+    },
+    {
+      "id": "107",
+      "title": "Ujemne dane w diagramach słupkowych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 10
+    },
+    {
+      "id": "108",
+      "title": "Diagramy słupkowe 2",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 10
+    },
+    {
+      "id": "109",
+      "title": "Diagramy słupkowe, kołowe, procentowe i liczbowe",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 11
+    },
+    {
+      "id": "110",
+      "title": "Diagramy podwójne",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 11
+    },
+    {
+      "id": "111",
+      "title": "Rysowanie diagramów na podstawie danych z tabeli",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 11
     }
 
   ]
