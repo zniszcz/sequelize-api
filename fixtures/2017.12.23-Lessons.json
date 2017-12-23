@@ -161,7 +161,7 @@
     },
     {
       "id": "21",
-      "title": "Liczby i działania",
+      "title": "Liczby 4 działania",
       "from": "3",
       "to": "5",
       "bgColor": "0x82B366",
@@ -432,14 +432,6 @@
       "parent": 19
     },
     {
-      "id": "54",
-      "title": "Dodawanie pisemne",
-      "from": "4",
-      "to": "6",
-      "bgColor": "0x82B366",
-      "parent": 19
-    },
-    {
       "id": "55",
       "title": "Odejmowanie pisemne",
       "from": "4",
@@ -529,7 +521,7 @@
     },
     {
       "id": "66",
-      "title": "Kl. 4 Działania i ćwiczenia",
+      "title": "4 Działania i ćwiczenia",
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
@@ -753,7 +745,7 @@
     },
     {
       "id": "94",
-      "title": "Dodawanie i odejmowanie liczb",
+      "title": "Dodawanie i odejmowanie liczb całkowitych",
       "from": "4",
       "to": "6",
       "bgColor": "0x82B366",
@@ -826,74 +818,2122 @@
     {
       "id": "103",
       "title": "Diagramy słupkowe i obrazkowe",
-      "from": "5",
-      "to": "7",
+      "from": "4",
+      "to": "6",
       "bgColor": "0x82B366",
       "parent": 9
     },
     {
       "id": "104",
       "title": "Przedstawienie za pomocą diagramu",
-      "from": "5",
-      "to": "7",
+      "from": "4",
+      "to": "6",
       "bgColor": "0x82B366",
       "parent": 9
     },
     {
       "id": "105",
       "title": "Odczytywanie danych z diagramu",
-      "from": "5",
-      "to": "7",
+      "from": "4",
+      "to": "6",
       "bgColor": "0x82B366",
       "parent": 9
     },
     {
       "id": "106",
       "title": "Interpretacja danych",
-      "from": "5",
-      "to": "7",
+      "from": "4",
+      "to": "6",
       "bgColor": "0x82B366",
       "parent": 9
     },
     {
       "id": "107",
       "title": "Ujemne dane w diagramach słupkowych",
-      "from": "5",
-      "to": "7",
+      "from": "4",
+      "to": "6",
       "bgColor": "0x82B366",
       "parent": 10
     },
     {
       "id": "108",
       "title": "Diagramy słupkowe 2",
-      "from": "5",
-      "to": "7",
+      "from": "4",
+      "to": "6",
       "bgColor": "0x82B366",
       "parent": 10
     },
     {
       "id": "109",
       "title": "Diagramy słupkowe, kołowe, procentowe i liczbowe",
-      "from": "5",
-      "to": "7",
+      "from": "4",
+      "to": "6",
       "bgColor": "0x82B366",
       "parent": 11
     },
     {
       "id": "110",
       "title": "Diagramy podwójne",
-      "from": "5",
-      "to": "7",
+      "from": "4",
+      "to": "6",
       "bgColor": "0x82B366",
       "parent": 11
     },
     {
       "id": "111",
       "title": "Rysowanie diagramów na podstawie danych z tabeli",
+      "from": "4",
+      "to": "6",
+      "bgColor": "0x82B366",
+      "parent": 11
+    },
+    {
+      "id": "112",
+      "title": "Jednostki czasu, godzina, pół godziny, kwadrans, minuta",
+      "from": "4",
+      "to": "6",
+      "bgColor": "0x82B366",
+      "parent": 12
+    },
+    {
+      "id": "113",
+      "title": "Zapis rzymski do XII",
+      "from": "4",
+      "to": "6",
+      "bgColor": "0x82B366",
+      "parent": 12
+    },
+    {
+      "id": "114",
+      "title": "Daty, kolejność dni tygodnia, miesięcy",
+      "from": "4",
+      "to": "6",
+      "bgColor": "0x82B366",
+      "parent": 12
+    },
+    {
+      "id": "115",
+      "title": "Odczytywanie na zegarze ze wskazówkami",
+      "from": "4",
+      "to": "6",
+      "bgColor": "0x82B366",
+      "parent": 12
+    },
+    {
+      "id": "116",
+      "title": "Odczytywanie na zegarze cyfrowym",
+      "from": "4",
+      "to": "6",
+      "bgColor": "0x82B366",
+      "parent": 12
+    },
+    {
+      "id": "117",
+      "title": "System 12 i 24 godzinny",
+      "from": "4",
+      "to": "6",
+      "bgColor": "0x82B366",
+      "parent": 12
+    },
+    {
+      "id": "118",
+      "title": "Porządkowanie chronologiczne dat",
+      "from": "4",
+      "to": "6",
+      "bgColor": "0x82B366",
+      "parent": 12
+    },
+    {
+      "id": "119",
+      "title": "Rzędy liczb",
       "from": "5",
       "to": "7",
       "bgColor": "0x82B366",
-      "parent": 11
+      "parent": 36
+    },
+    {
+      "id": "120",
+      "title": "Odczytywanie liczb do 1 miliona",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 36
+    },
+    {
+      "id": "121",
+      "title": "System dziesiątkowy, system pozycyjny",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 36
+    },
+    {
+      "id": "122",
+      "title": "Rzędy w ułamkach dziesiętnych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 36
+    },
+    {
+      "id": "123",
+      "title": "Odczytywanie cyfr we wskazanym rzędzie",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 36
+    },
+    {
+      "id": "124",
+      "title": "Liczba pierwsza i liczba złożona",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 37
+    },
+    {
+      "id": "125",
+      "title": "Dzielniki liczby i wielokrotności liczby",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 37
+    },
+    {
+      "id": "126",
+      "title": "Wypisywanie dzielników i podawanie przykładów wielokrotności",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 37
+    },
+    {
+      "id": "127",
+      "title": "Liczby pierwsze do 20",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 37
+    },
+    {
+      "id": "128",
+      "title": "Liczby parzyste i nieparzyste",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 37
+    },
+    {
+      "id": "129",
+      "title": "Podzielność przez 2",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 38
+    },
+    {
+      "id": "130",
+      "title": "Podzielność przez 5",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 38
+    },
+    {
+      "id": "131",
+      "title": "Podzielność przez 10",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 38
+    },
+    {
+      "id": "132",
+      "title": "Podzielność przez 3",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 38
+    },
+    {
+      "id": "133",
+      "title": "Podzielność przez 4",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 38
+    },
+    {
+      "id": "134",
+      "title": "Podzielność przez 25",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 38
+    },
+    {
+      "id": "135",
+      "title": "Podzielność przez 100",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 38
+    },
+    {
+      "id": "136",
+      "title": "Podzielność przez 9",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 38
+    },
+    {
+      "id": "137",
+      "title": "Dopisywanie cyfr, aby liczba była podzielna",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 38
+    },
+    {
+      "id": "138",
+      "title": "Złożone warunki np. 6, 15",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 38
+    },
+    {
+      "id": "139",
+      "title": "Ocenianie prawdziwości zdań",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 38
+    },
+    {
+      "id": "140",
+      "title": "Szacowanie wyników działań",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 39
+    },
+    {
+      "id": "141",
+      "title": "Wykrywanie błędów",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 39
+    },
+    {
+      "id": "142",
+      "title": "Wykonywanie działań na kalkulatorze",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 39
+    },
+    {
+      "id": "143",
+      "title": "Nadmiar lub brak danych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 39
+    },
+    {
+      "id": "144",
+      "title": "Zapis rzymski, zasady",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 40
+    },
+    {
+      "id": "145",
+      "title": "Zapis rzymski, zapisywanie",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 40
+    },
+    {
+      "id": "145",
+      "title": "Zapis rzymski, odczytywanie",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 40
+    },
+    {
+      "id": "146",
+      "title": "Zapis rzymski, Daty, wieki, rozdziały",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 40
+    },
+    {
+      "id": "147",
+      "title": "Podstawowe jednostki czasu",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 41
+    },
+    {
+      "id": "148",
+      "title": "Zamiana jednostek czasu od dnia do wieku",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 41
+    },
+    {
+      "id": "149",
+      "title": "Zamiana jednostek czasu, od sekundy do doby",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 41
+    },
+    {
+      "id": "150",
+      "title": "Czas i ułamki zwykłe",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 41
+    },
+    {
+      "id": "151",
+      "title": "Zadania szukanie liczb pierwszych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 42
+    },
+    {
+      "id": "152",
+      "title": "Określanie czy liczba jest  pierwsza czy złożona Do 100",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 42
+    },
+    {
+      "id": "153",
+      "title": "Dzielniki i wielokrotności liczb w zakresie do 100",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 42
+    },
+    {
+      "id": "154",
+      "title": "Liczba odwrotna",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 43
+    },
+    {
+      "id": "155",
+      "title": "Liczba przeciwna",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 43
+    },
+    {
+      "id": "156",
+      "title": "Liczby naturalne, liczby całkowite",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 43
+    },
+    {
+      "id": "157",
+      "title": "Wzór na prędkość",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 44
+    },
+    {
+      "id": "158",
+      "title": "Obliczanie prędkości",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 44
+    },
+    {
+      "id": "159",
+      "title": "Przekształcanie wzoru na prędkość",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 44
+    },
+    {
+      "id": "160",
+      "title": "Obliczanie drogi",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 44
+    },
+    {
+      "id": "161",
+      "title": "Obliczanie czasu",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 44
+    },
+    {
+      "id": "162",
+      "title": "Wyliczyć brutto",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 45
+    },
+    {
+      "id": "163",
+      "title": "Wyliczyć tarę",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 45
+    },
+    {
+      "id": "164",
+      "title": "Wyliczyć netto",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 45
+    },
+    {
+      "id": "165",
+      "title": "Rozkład liczby na czynniki pierwsze",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 46
+    },
+    {
+      "id": "166",
+      "title": "Wszystkie dzielniki liczby",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 46
+    },
+    {
+      "id": "167",
+      "title": "Średnia arytmetyczna",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 47
+    },
+    {
+      "id": "168",
+      "title": "Zadania z zastosowaniem średniej arytmetycznej 2 lub 3 liczb",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 47
+    },
+    {
+      "id": "169",
+      "title": "Średnia arytmetyczna, zadania zaawansowane",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 47
+    },
+    {
+      "id": "170",
+      "title": "Liczby naturalne, całkowite, wymierne",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 48
+    },
+    {
+      "id": "171",
+      "title": "Temperatura bez ujemnych (mrozu lub poniżej zera)",
+      "from": "4",
+      "to": "6",
+      "bgColor": "0x82B366",
+      "parent": 18
+    },
+    {
+      "id": "172",
+      "title": "Proste zadania z pieniędzmi",
+      "from": "4",
+      "to": "6",
+      "bgColor": "0x82B366",
+      "parent": 18
+    },
+    {
+      "id": "173",
+      "title": "Dodawanie cyfr",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 49
+    },
+    {
+      "id": "174",
+      "title": "Odejmowanie cyfr",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 49
+    },
+    {
+      "id": "175",
+      "title": "Dodawanie i odejmowanie jako operacje odwrotne",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 49
+    },
+    {
+      "id": "176",
+      "title": "Nazewnictwo w dodawaniu",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 49
+    },
+    {
+      "id": "177",
+      "title": "Nazewnictwo w odejmowaniu",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 49
+    },
+    {
+      "id": "178",
+      "title": "Sprawdzanie odejmowania za pomocą dodawania",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 49
+    },
+    {
+      "id": "179",
+      "title": "Dodawanie do 100",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 49
+    },
+    {
+      "id": "180",
+      "title": "Odejmowanie do 100",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 49
+    },
+    {
+      "id": "181",
+      "title": "Liczba 0 w dodawaniu i odejmowaniu",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 49
+    },
+    {
+      "id": "182",
+      "title": "Oś liczbowa. Odczytywanie i zaznaczanie",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 50
+    },
+    {
+      "id": "183",
+      "title": "Porównywanie liczb naturalnych, znaki '<', '>', '='",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 50
+    },
+    {
+      "id": "184",
+      "title": "Cyfra i liczba",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 50
+    },
+    {
+      "id": "185",
+      "title": "Ułamki półtora, pół i ćwierć",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 50
+    },
+    {
+      "id": "186",
+      "title": "Porównywanie różnicowe",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 50
+    },
+    {
+      "id": "187",
+      "title": "Liczba parzysta i nieparzysta",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 50
+    },
+    {
+      "id": "188",
+      "title": "Równania w postaci okienka",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 50
+    },
+    {
+      "id": "189",
+      "title": "Mnożenie liczb naturalnych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 51
+    },
+    {
+      "id": "190",
+      "title": "Dzielenie liczb naturalnych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 51
+    },
+    {
+      "id": "191",
+      "title": "Dzielenie jako operacja odwrotna",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 51
+    },
+    {
+      "id": "192",
+      "title": "Tabliczka mnożenia",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 51
+    },
+    {
+      "id": "193",
+      "title": "Tabliczka dzielenia",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 51
+    },
+    {
+      "id": "194",
+      "title": "Nazewnictwo w mnożeniu",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 51
+    },
+    {
+      "id": "195",
+      "title": "Nazewnictwo w dzieleniu",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 51
+    },
+    {
+      "id": "196",
+      "title": "Sprawdzanie dzielenia za pomocą mnożenia",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 51
+    },
+    {
+      "id": "197",
+      "title": "Liczby 0 i 1 w mnożeniu i dzieleniu",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 51
+    },
+    {
+      "id": "198",
+      "title": "Przedstawianie dodawania i odejmowania jako poruszania się po osi",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 52
+    },
+    {
+      "id": "199",
+      "title": "Przedstawianie dodawania i odejmowania na rzeczach",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 52
+    },
+    {
+      "id": "200",
+      "title": "Przedstawianie dodawania i odejmowania za pomocą grafu",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 52
+    },
+    {
+      "id": "201",
+      "title": "Mnożenei jako skoki po osi",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 53
+    },
+    {
+      "id": "202",
+      "title": "Dzielenie jako podział na osi",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 53
+    },
+    {
+      "id": "203",
+      "title": "Mnożenie w prostokącie, rzędy i kolumny",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 53
+    },
+    {
+      "id": "204",
+      "title": "Dzielenie jako podział prostokąta",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 53
+    },
+    {
+      "id": "205",
+      "title": "Przedstawianie mnożenia i dzielenia za pomocą grafu",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 53
+    },
+    {
+      "id": "206",
+      "title": "Dodawanie pisemne liczb dwucyfrowych bez przeniesienia",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 54
+    },
+    {
+      "id": "207",
+      "title": "Dodawanie pisemne z przeniesieniem",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 54
+    },
+    {
+      "id": "208",
+      "title": "Uzupełnianie brakujących cyfr w dodawaniu pisemnym",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 54
+    },
+    {
+      "id": "209",
+      "title": "Dodawanie dowolnych liczb naturalnych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 54
+    },
+    {
+      "id": "210",
+      "title": "Odejmowanie liczb dwucyfrowych bez pożyczania",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 55
+    },
+    {
+      "id": "211",
+      "title": "Odejmowanie z pożyczaniem",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 55
+    },
+    {
+      "id": "212",
+      "title": "Odejmowanie dowolnych liczb naturalnych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 55
+    },
+    {
+      "id": "213",
+      "title": "Uzupełnianie brakujących cyfr w odejmowaniu pisemnym",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 55
+    },
+    {
+      "id": "214",
+      "title": "Dodawanie +9,8,7,6,5 jako +10-1,2,3,4,5",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 56
+    },
+    {
+      "id": "215",
+      "title": "Odejmowanie -9,8,7,6,5 jako -10+1,2,3,4,5",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 56
+    },
+    {
+      "id": "216",
+      "title": "Dodawanie i odejmowanie z przechodzeniem przez 10 jako rozdzielanie liczby",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 56
+    },
+    {
+      "id": "217",
+      "title": "Przemienność dodawania, nieprzemienność odejmowania",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 57
+    },
+    {
+      "id": "218",
+      "title": "Grupowanie i wybieranie kolejności wykonywania dodawania i odejmowania (łączność)",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 57
+    },
+    {
+      "id": "219",
+      "title": "Odejmowanie z nawiasami",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 57
+    },
+    {
+      "id": "220",
+      "title": "Dodawanie z nawiasami",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 57
+    },
+    {
+      "id": "221",
+      "title": "Mnożenie pisemne razy cyfrę",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 58
+    },
+    {
+      "id": "222",
+      "title": "Mnożenie pisemne z przeniesieniem razy liczbę dwucyfrową",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 58
+    },
+    {
+      "id": "223",
+      "title": "Uzupełnianie brakujących cyfr w mnożeniu pisemnym",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 58
+    },
+    {
+      "id": "224",
+      "title": "Mnożenie dowolnych liczb naturalnych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 58
+    },
+    {
+      "id": "225",
+      "title": "Dzielenie pisemne przez cyfrę",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 59
+    },
+    {
+      "id": "226",
+      "title": "Dzielenie pisemne przez liczbę dwucyfrową",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 59
+    },
+    {
+      "id": "227",
+      "title": "Uzupełnianie brakujących cyfr w dzieleniu pisemnym",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 59
+    },
+    {
+      "id": "228",
+      "title": "Dzielenie dowolnych liczb naturalnych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 59
+    },
+    {
+      "id": "229",
+      "title": "Dzielenie z resztą",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 60
+    },
+    {
+      "id": "230",
+      "title": "Jaka może być reszta",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 60
+    },
+    {
+      "id": "231",
+      "title": "Dzielenie pisemne z resztą",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 60
+    },
+    {
+      "id": "232",
+      "title": "Sprawdzanie dzielenia z resztą",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 60
+    },
+    {
+      "id": "230",
+      "title": "Mnożenei x4 jako dwukrotne mnożenie x2",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 61
+    },
+    {
+      "id": "231",
+      "title": "Dzielenie /4 jako dwukrotne dzielenie /2",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 61
+    },
+    {
+      "id": "232",
+      "title": "Mnożenie x5 jako x10 /2",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 61
+    },
+    {
+      "id": "233",
+      "title": "Dzielenie /5 jako /10 *2",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 61
+    },
+    {
+      "id": "234",
+      "title": "Mnożenie razy wielokrotności 10",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 61
+    },
+    {
+      "id": "235",
+      "title": "Dzielenie przez wielokrotności 10",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 61
+    },
+    {
+      "id": "236",
+      "title": "Zasady grupowania (łączność)",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 62
+    },
+    {
+      "id": "237",
+      "title": "Przemienność mnożenia i nieprzemienność dzielenia",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 62
+    },
+    {
+      "id": "238",
+      "title": "Mnożenie z nawiasami",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 62
+    },
+    {
+      "id": "239",
+      "title": "Dzielenie z nawiasami",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 62
+    },
+    {
+      "id": "240",
+      "title": "Zamiana iloczynu na potęgi",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 63
+    },
+    {
+      "id": "241",
+      "title": "Zamiana potęgi na iloczyn",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 63
+    },
+    {
+      "id": "242",
+      "title": "Nazewnictwo w potęgach",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 63
+    },
+    {
+      "id": "243",
+      "title": "Liczenie potęg",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 63
+    },
+    {
+      "id": "244",
+      "title": "Oś liczbowa, odczywtywanie i zaznaczanie",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 64
+    },
+    {
+      "id": "245",
+      "title": "Porównywanie różnicowe i iloczynowe",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 64
+    },
+    {
+      "id": "246",
+      "title": "Wyznaczanie jednostki na osi",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 64
+    },
+    {
+      "id": "247",
+      "title": "Równania w postaci okienka",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 64
+    },
+    {
+      "id": "248",
+      "title": "Liczba razy nawiaz (rozdzielność dodawania względem mnożenia)",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 65
+    },
+    {
+      "id": "249",
+      "title": "Kolejność wykonywania działań",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 65
+    },
+    {
+      "id": "250",
+      "title": "Nawias razy nawias",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 65
+    },
+    {
+      "id": "251",
+      "title": "Sprawdzanie wykonanych działań",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 66
+    },
+    {
+      "id": "252",
+      "title": "Wykorzystanie mnożenia przy dodawaniu i odejmowaniu wielu takich samych liczb",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 66
+    },
+    {
+      "id": "253",
+      "title": "Ćwiczenia wykorzystyjące wszystkie poznane działania na liczbach naturalnych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 66
+    },
+    {
+      "id": "254",
+      "title": "Połączenie potęgowania z innymi działaniami, proste przykłady",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 66
+    },
+    {
+      "id": "255",
+      "title": "Mnożenie x9 jako x10 i -",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 67
+    },
+    {
+      "id": "256",
+      "title": "Mnożenie x8 jako x10 i -",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 67
+    },
+    {
+      "id": "257",
+      "title": "Mnożenie razy liczby dwucyfrowe w pamięci",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 67
+    },
+    {
+      "id": "258",
+      "title": "Odczytywanie ułamków na osi",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 68
+    },
+    {
+      "id": "259",
+      "title": "Zaznaczanie ułamków na osi, zaznaczanie jednostek",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 68
+    },
+    {
+      "id": "260",
+      "title": "Ułamek prostokąta, koła, odcinka",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 69
+    },
+    {
+      "id": "261",
+      "title": "Zaznaczanie na rysunku ułamka",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 69
+    },
+    {
+      "id": "262",
+      "title": "Licznik i mianownik",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 69
+    },
+    {
+      "id": "263",
+      "title": "Odczytywanie ułamka z rysunku",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 69
+    },
+    {
+      "id": "264",
+      "title": "Zginanie, składania, rozcinanie",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 69
+    },
+    {
+      "id": "265",
+      "title": "Ułamek właściwy, niewłaściwy i liczba mieszana",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 69
+    },
+    {
+      "id": "266",
+      "title": "Rozbijanie ułamka mieszanego. Zmiany w każdą stronę",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 69
+    },
+    {
+      "id": "267",
+      "title": "Ułamek jako iloraz i iloraz jako ułamek",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 70
+    },
+    {
+      "id": "268",
+      "title": "Skala powiększająca jako ułamek niewłaściwy",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 70
+    },
+    {
+      "id": "269",
+      "title": "Skala pomniejszająca jako ułamek właściwy",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 70
+    },
+    {
+      "id": "270",
+      "title": "Równość ułamków o różnych mianownikach",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 71
+    },
+    {
+      "id": "271",
+      "title": "Rozszerzanie ułamków",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 71
+    },
+    {
+      "id": "272",
+      "title": "Skracanie ułamków",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 71
+    },
+    {
+      "id": "273",
+      "title": "Porównywanie ułamków na podstawie rysunku",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 72
+    },
+    {
+      "id": "274",
+      "title": "Porównywanie ułamków o jednakowych mianownikach",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 72
+    },
+    {
+      "id": "275",
+      "title": "Porównywanie ułamków o różnych mianownikach",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 72
+    },
+    {
+      "id": "276",
+      "title": "Dodawanie i odjemowanie ułamków o wspólnych mianownikach",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 73
+    },
+    {
+      "id": "277",
+      "title": "Dodawanie i odejmowanie liczb mieszanych o wspólnych mianownikach",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 73
+    },
+    {
+      "id": "278",
+      "title": "Mnożenie ułamka przez liczbę naturalną",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 74
+    },
+    {
+      "id": "279",
+      "title": "Mnożenie liczby mieszanej przez liczbę naturalną",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 74
+    },
+    {
+      "id": "280",
+      "title": "Połączenia działań na ułamkach zwykłych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 74
+    },
+    {
+      "id": "281",
+      "title": "Zadania tekstowe związane z przepisami, gotowaniem itp.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 75
+    },
+    {
+      "id": "282",
+      "title": "Zadania związane z ułamkami i czasem",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 75
+    },
+    {
+      "id": "283",
+      "title": "Ułamki dziesiętne, przykłady",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 76
+    },
+    {
+      "id": "284",
+      "title": "Odczytywanie ułamków dziesiętnych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 76
+    },
+    {
+      "id": "285",
+      "title": "Zapisywanie ułamków dziesiętnych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 76
+    },
+    {
+      "id": "286",
+      "title": "Odczytywanie ułamków dziesiętnych z osi",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 77
+    },
+    {
+      "id": "287",
+      "title": "Zaznaczanie ułamków dziesiętnych na osi",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 77
+    },
+    {
+      "id": "288",
+      "title": "Skracanie i rozszerzanie ułamków dziesiętnych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 78
+    },
+    {
+      "id": "289",
+      "title": "Porządkowanie ułamków dziesiętnych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 78
+    },
+    {
+      "id": "290",
+      "title": "Porównywanie ułamków dziesiętnych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 78
+    },
+    {
+      "id": "291",
+      "title": "Dodawanie i odejmowanie ułamków dziesiętnych o tej samej dokładności",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 79
+    },
+    {
+      "id": "292",
+      "title": "Pisemne dodawanie i odejmowanie ułamków dziesiętnych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 79
+    },
+    {
+      "id": "293",
+      "title": "Dodawanie i odejmowanie ułamków dziesiętnych o różnych dokładnościach",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 79
+    },
+    {
+      "id": "294",
+      "title": "Mnożenie i dzielenie ułamków dziesiętnych przez 10, 100 i 1000",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 80
+    },
+    {
+      "id": "295",
+      "title": "Zadania z przesuwaniem przecinka",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 80
+    },
+    {
+      "id": "296",
+      "title": "Połączenie działań na ułamkach dziesiętnych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 80
+    },
+    {
+      "id": "297",
+      "title": "Znajdowanie jednostki na osi mając ułamki o tych samych mianownikach",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 81
+    },
+    {
+      "id": "298",
+      "title": "Znajdowanie jednostki na osi mając ułamki o różnych mianownikach",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 81
+    },
+    {
+      "id": "299",
+      "title": "Przybliżanie ułamków zwykłych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 81
+    },
+    {
+      "id": "300",
+      "title": "Porównywanie różnicowe i ilorazowe ułamków zwykłych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 81
+    },
+    {
+      "id": "301",
+      "title": "Mnożenie ułamków właściwych i niewłaściwych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 82
+    },
+    {
+      "id": "302",
+      "title": "Dzielenie ułamków właściwych i niewłaściwych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 82
+    },
+    {
+      "id": "303",
+      "title": "Skracanie przy mnożeniu",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 82
+    },
+    {
+      "id": "304",
+      "title": "Mnożenie i dzielenie dowolnych ułamków",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 82
+    },
+    {
+      "id": "305",
+      "title": "Graficzne przedstawienie mnożenia ułamków",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 82
+    },
+    {
+      "id": "306",
+      "title": "Sprowadzenie do wspólnego mianownika, najprostsze przypadki",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 83
+    },
+    {
+      "id": "307",
+      "title": "Sprowadzenie do wspólnego mianownika. Wypisywanie wielokrotności",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 83
+    },
+    {
+      "id": "308",
+      "title": "Sprowadzanie do wspólnego mianownika. Liczby względnie pierwsze.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 83
+    },
+    {
+      "id": "309",
+      "title": "Wspólny mianownik i najmniejszy wspólny mianownik",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 83
+    },
+    {
+      "id": "310",
+      "title": "Ułamek liczby.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 84
+    },
+    {
+      "id": "311",
+      "title": "Ułamek liczby. Zadania o podwyższonym poziomie trudności.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 84
+    },
+    {
+      "id": "312",
+      "title": "Jaki ułamek jednej liczby to druga liczba.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 84
+    },
+    {
+      "id": "313",
+      "title": "Połączenie 4 działań na ułamkach zwykłych bez nawiasów",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 85
+    },
+    {
+      "id": "314",
+      "title": "Połączenie 4 działań na ułamkach zwykłych z nawiasami",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 85
+    },
+    {
+      "id": "315",
+      "title": "Połączenie 5 działań na ułamkach zwykłych z nawiasami",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 85
+    },
+    {
+      "id": "316",
+      "title": "Dodawanie i odejmowanie ułamków zwykłych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 86
+    },
+    {
+      "id": "317",
+      "title": "Dodawanie i odejmowanie ułamków. Ćwiczenia w pamięci.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 86
+    },
+    {
+      "id": "318",
+      "title": "Podnoszenie ułamków zwykłych do potęgi 2 i 3",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 87
+    },
+    {
+      "id": "319",
+      "title": "Dodawanie i odejmowanie pisemne. Ćwiczenia.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 88
+    },
+    {
+      "id": "320",
+      "title": "Zamiana wyrażeń dwumianowych na ułamki dziesiętne.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 88
+    },
+    {
+      "id": "321",
+      "title": "Dodawanie i odejmowanie złotych i groszy z przekroczeniem progu złotówki",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 88
+    },
+    {
+      "id": "322",
+      "title": "Znajdowanie jednostki na osi mając ułamki dziesiętne",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 89
+    },
+    {
+      "id": "323",
+      "title": "Porównywanie różnicowe i ilorazowe przy ułamkach dziesiętnych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 89
+    },
+    {
+      "id": "324",
+      "title": "Przybliżanie ułamków dziesiętnych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 89
+    },
+    {
+      "id": "325",
+      "title": "Mnożenie i dzielenie ułamków dziesiętnych. Proste przykłady.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 90
+    },
+    {
+      "id": "326",
+      "title": "Dzielenie pisemne ułamków dziesiętnych przez liczbę.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 90
+    },
+    {
+      "id": "327",
+      "title": "Mnożenie pisemne ułamków dziesiętnych razy liczbę.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 90
+    },
+    {
+      "id": "328",
+      "title": "Dzielenie pisemne dwóch ułamków dziesiętnych.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 90
+    },
+    {
+      "id": "329",
+      "title": "Mnożenie pisemne dwóch ułamków dziesiętnych.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 90
+    },
+    {
+      "id": "330",
+      "title": "Połączenie 4 działań",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 91
+    },
+    {
+      "id": "331",
+      "title": "Połączenie 5 działań",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 91
+    },
+    {
+      "id": "332",
+      "title": "Ułamki dziesiętne do potęgi 2 i 3",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 92
+    },
+    {
+      "id": "333",
+      "title": "Liczby ujemne na osi, zaznaczanie i odczytywanie",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 93
+    },
+    {
+      "id": "334",
+      "title": "Wyznaczanie jednostki na osi",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 93
+    },
+    {
+      "id": "335",
+      "title": "Porównanie liczb całkowitych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 93
+    },
+    {
+      "id": "336",
+      "title": "Pary liczb przeciwnych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 93
+    },
+    {
+      "id": "337",
+      "title": "Dodawanie i odejmowanie jako poruszanie się po osi",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 94
+    },
+    {
+      "id": "338",
+      "title": "Dodawanie i odejmowanie z przechodzeniem przez 0",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 94
+    },
+    {
+      "id": "339",
+      "title": "Dodawanie liczb ujemnych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 94
+    },
+    {
+      "id": "340",
+      "title": "Odejmowanie liczb ujemnych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 94
+    },
+    {
+      "id": "341",
+      "title": "Ćwiczenia w dodawani i odejmowaniu liczb całkowitych",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 94
+    },
+    {
+      "id": "342",
+      "title": "Zastosowanie liczb ujemnych, temperatura",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 95
+    },
+    {
+      "id": "343",
+      "title": "Zastosowanie liczb ujemnych - dług",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 95
+    },
+    {
+      "id": "344",
+      "title": "Mnożenie i dzielenie liczb całkowitych. Ogólne zasady.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 96
+    },
+    {
+      "id": "345",
+      "title": "Pozbywanie się nawiasu, gdy przed nim jest minus.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 96
+    },
+    {
+      "id": "346",
+      "title": "Zabawa z minusami.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 96
+    },
+    {
+      "id": "347",
+      "title": "Wartość bezwzględna. Interpretacja na osi.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 97
+    },
+    {
+      "id": "348",
+      "title": "Wartość bezględna liczby całkowitej.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 97
+    },
+    {
+      "id": "349",
+      "title": "Porównywanie liczb z wartością bezwzględną.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 97
+    },
+    {
+      "id": "350",
+      "title": "Połączenie działań arytmetycznych na liczbach całkowitych.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 98
+    },
+    {
+      "id": "351",
+      "title": "Połączenie działań z wartością bezwzględną.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 98
+    },
+    {
+      "id": "352",
+      "title": "Ćwiczenia w pozbywaniu się minusów.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 98
+    },
+    {
+      "id": "353",
+      "title": "Kolejne zadania łączące poznane działania.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 98
+    },
+    {
+      "id": "354",
+      "title": "Potęgowanie liczb całkowitych.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 99
+    },
+    {
+      "id": "355",
+      "title": "Dalsze ćwiczenia z procentami",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 100
+    },
+    {
+      "id": "356",
+      "title": "Punkt procentowy",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 100
+    },
+    {
+      "id": "357",
+      "title": "Podsumowanie. Przypomnienei i ćwiczenia na ułamkach.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 101
+    },
+    {
+      "id": "358",
+      "title": "Ujemne ułamki.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 101
+    },
+    {
+      "id": "359",
+      "title": "Ułamki piętrowe.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 101
+    },
+    {
+      "id": "360",
+      "title": "Rozwinięcie skończone i nieskończone",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 102
+    },
+    {
+      "id": "361",
+      "title": "Proste ułamki okresowe.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 102
+    },
+    {
+      "id": "362",
+      "title": "Sprawdzanie za pomocą kalkulatora.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 102
+    },
+    {
+      "id": "363",
+      "title": "Sprawdzanie za pomocą dzielenia pisemnego.",
+      "from": "5",
+      "to": "7",
+      "bgColor": "0x82B366",
+      "parent": 102
     }
 
   ]
