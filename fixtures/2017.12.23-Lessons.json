@@ -1160,7 +1160,7 @@
       "parent": 40
     },
     {
-      "id": "145",
+      "id": "364",
       "title": "Zapis rzymski, odczytywanie",
       "from": "5",
       "to": "7",
@@ -1840,7 +1840,7 @@
       "parent": 60
     },
     {
-      "id": "230",
+      "id": "365",
       "title": "Jaka może być reszta",
       "from": "5",
       "to": "7",
@@ -1848,7 +1848,7 @@
       "parent": 60
     },
     {
-      "id": "231",
+      "id": "366",
       "title": "Dzielenie pisemne z resztą",
       "from": "5",
       "to": "7",
@@ -1856,7 +1856,7 @@
       "parent": 60
     },
     {
-      "id": "232",
+      "id": "367",
       "title": "Sprawdzanie dzielenia z resztą",
       "from": "5",
       "to": "7",
