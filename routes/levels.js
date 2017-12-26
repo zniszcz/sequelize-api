@@ -51,48 +51,55 @@ router.get('/:id', function(req, res) {
               };
             };
 
-            data.forEach(level => {
-              const lesson = mapLesson(level);
-              flatStructure[lesson.id] = lesson;
-              if (lesson.parent !== null) {
-                flatStructure[lesson.parent].childrenRefs.push(lesson.id);
-              }
-            });
-
-            const getEmptyChildrenRefs = () => {
-              let refsCount = 0;
-              Object.values(flatStructure).forEach((lesson) => {
-                if (!lesson.childrenRefs.length) {
-                  refsCount++;
+            try {
+              data.forEach(level => {
+                const lesson = mapLesson(level);
+                flatStructure[lesson.id] = lesson;
+                if (lesson.parent !== null && flatStructure[lesson.parent]) {
+                  flatStructure[lesson.parent].childrenRefs.push(lesson.id);
                 }
               });
 
-              return refsCount;
-            };
-
-            const deleteEmptyChildrenRefs = () => {
-              Object.values(flatStructure).forEach((lesson) => {
-                if (lesson.childrenRefs.length === 0) {
-                  if (flatStructure[lesson.parent]) {
-                    flatStructure[lesson.parent].children.push(lesson);
-                    flatStructure[lesson.parent].childrenRefs = _
-                      .remove(flatStructure[lesson.parent].childrenRefs, [lesson.id]);
-                  } else {
-                    lessons.push(lesson);
+              const getEmptyChildrenRefs = () => {
+                let refsCount = 0;
+                Object.values(flatStructure).forEach((lesson) => {
+                  if (!lesson.childrenRefs.length) {
+                    refsCount++;
                   }
-                  delete flatStructure[lesson.id];
-                }
+                });
+
+                return refsCount;
+              };
+
+              const deleteEmptyChildrenRefs = () => {
+                Object.values(flatStructure).forEach((lesson) => {
+                  if (lesson.childrenRefs.length === 0) {
+                    if (flatStructure[lesson.parent]) {
+                      flatStructure[lesson.parent].children.push(lesson);
+                      flatStructure[lesson.parent].childrenRefs = _
+                        .remove(flatStructure[lesson.parent].childrenRefs, [lesson.id]);
+                    } else {
+                      lessons.push(lesson);
+                    }
+                    delete flatStructure[lesson.id];
+                  }
+                });
+              };
+
+              while (getEmptyChildrenRefs()) {
+                deleteEmptyChildrenRefs();
+              }
+
+              res.status(201).send({
+                  level: req.params.id,
+                  lessons: lessons,
               });
-            };
-
-            while (getEmptyChildrenRefs()) {
-              deleteEmptyChildrenRefs();
+            } catch (error) {
+               console.log(error);
+               res.status(400).send({
+                 error: 'An error appeared',
+               });
             }
-
-            res.status(201).send({
-                level: req.params.id,
-                lessons: lessons,
-            });
         })
         .catch(error => {
             res.status(400).send(error);
